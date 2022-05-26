@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 a = input('Enter a: ')
 b = input('Enter b: ')
 print ('Before swapping:', a, b)
